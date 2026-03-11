@@ -22,3 +22,5 @@ As an analyst at Ice, a global online video game store, this project focuses on 
 
 ## Impact
 This project analyzed a global dataset of video game sales, ratings, and game attributes to identify patterns that determine game success and inform the 2017 marketing campaign for Ice. After thorough data cleaning and unification, key findings included peak game sales between 2005-2012, with PS4 and 3DS poised for continued growth. Action, sports, and shooter games dominated sales, while adventure, puzzle, and strategy games lagged. North America led in overall sales, while Japanese sales were lower. No direct correlation was found between reviews and sales, but statistical tests showed significant differences in user ratings between Xbox One vs. PC and Action vs. Sports genres. These insights guide future campaigns, emphasizing platform, genre, and regional strategies.
+
+TripleTen Project 5
